@@ -1,4 +1,4 @@
-const mongoose = require("mpongoose");
+const mongoose = require("mongoose");
 const requireLogin = require("../middlewares/requireLogin");
 const creditsCheck = require("../middlewares/creditsCheck");
 
