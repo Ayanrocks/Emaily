@@ -17,9 +17,9 @@ The app is hosted live at <a href="https://hidden-dawn-41297.herokuapp.com/"/>Em
   <li>Navigate to the project Directory in the terminal</li>
   <li>Run <code>npm install</code> or <code>yarn install</code></li>
   <li>Navigate to the client directory in the terminal by entering <code>cd client</code></li>
-  <li>enter <code>npm install</code> again</li>
+  <li>Enter <code>npm install</code> again</li>
   <li>Run the dev server by coming back to the root of the project by entering <code>cd ..</code></li>
-  <li>enter <code>npm run dev</code> and wait for the server to start</li>
+  <li>Enter <code>npm run dev</code> and wait for the server to start</li>
   <li>Express Server at PORT 3000 and react server at PORT 5000</li>
  </ul>
 <h4>Licence: MIT</h4>
